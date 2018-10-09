@@ -7,3 +7,9 @@
   <li>I will invest at least 30 hours of study per week</li>
   <li>I will grasp the concepts of this module very well</li>
 </ul>
+<h3> Things I love: </h3>
+<ol>
+  <li>Travelling</li>
+  <li>Chocolate</li>
+  <li>Reading romantic novels</li>
+</ol>
