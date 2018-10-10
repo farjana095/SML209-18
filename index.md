@@ -1,3 +1,3 @@
-<H1>wELCOME</H1>
+<H1>WELCOME</H1>
 <p>This is my page for SML209</p>
-<H1>hi</h1>
+
