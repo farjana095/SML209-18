@@ -11,7 +11,7 @@
 <dd>Taking delight in the happiness of others.</dd>
 </dl>                                                                                                                              
 <table>
-                                                                                                                              <tr><th>Feminine</th><th>Masculine</th><th>Meaning</th></tr>
+                                                                                                                              <tr><th>Feminine noun </th><th>Masculine noun </th><th>Meaning</th></tr>
                                                                                                                               <tr><td> Girl </td><td> Boy </td><td> Sex gender</td></tr>
 <tr><td> Heels </td><td> Trainers </td><td> A covering for the foot </td></tr>
 <tr><td> Skirt </td><td> Trousers </td><td>Garment fastened around the waist and hanging down around the legs.</td></tr>
