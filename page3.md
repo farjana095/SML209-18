@@ -17,6 +17,6 @@
 <tr><td> Heels </td><td> Trainers </td><td> A covering for the foot </td></tr>
 <tr><td> Skirt </td><td> Trousers </td><td>Garment fastened around the waist and hanging down around the legs.</td></tr>
 </table>
-<li lang="es"><p> Un día me desperté por la mañana y noté que te habías marchado. En seguida un sudor frío se apoderó de todo mi cuerpo, no podría soportar la idea de que me hubieras abandonado, de que el amor de mi vida hubiera querido dejarme. Por suerte en ese momento me sobresalté con tu mirada, ahí estabas, conmigo, tan bella y perfecta como siempre. </p></li>
+<li lang="es"><p> Un día me desperté por la mañana y noté que te habías marchado. En seguida un sudor frío se apoderó de todo mi cuerpo, no podría soportar la idea de que me hubieras abandonado, de que el amor de mi vida hubiera querido dejarme. Por suerte en ese momento me sobresalté con tu mirada, ahí estabas, conmigo, tan bella y perfecta como siempre. </p>
  
 
