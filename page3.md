@@ -13,3 +13,4 @@
 <table>
                                                                                                                               <tr><th>Feminine</th><th>Masculine</th><th>Meaning</th></tr>
                                                                                                                               <tr><td> Girl </td><td> Boy </td><td> Sex gender</td></tr>
+<tr><td> Heels </td><td> Trainers </td><td> A covering for the foot </td></tr>
