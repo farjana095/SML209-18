@@ -19,4 +19,4 @@
 </table>
 <p> Un día me desperté por la mañana y noté que te habías marchado. En seguida un sudor frío se apoderó de todo mi cuerpo, no podría soportar la idea de que me hubieras abandonado, de que el amor de mi vida hubiera querido dejarme. Por suerte en ese momento me sobresalté con tu mirada, ahí estabas, conmigo, tan bella y perfecta como siempre. </p>
  
-</ol>
+
