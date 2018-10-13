@@ -5,4 +5,6 @@
 <dl>
 <dt>Serendipity</dt>
 <dd>The fact of finding interesting or valuable things by change.</dd>
+<dt>Ineffable</dt>
+<dd>Too great or extreme to be expressed or described in words.</dd>
 </dl>
