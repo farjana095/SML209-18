@@ -15,3 +15,5 @@
                                                                                                                               <tr><td> Girl </td><td> Boy </td><td> Sex gender</td></tr>
 <tr><td> Heels </td><td> Trainers </td><td> A covering for the foot </td></tr>
 <tr><td> Skirt </td><td> Trousers </td><td>Garment fastened around the waist and hanging down around the legs.</td></tr>
+</table>
+                                                                                                                              
