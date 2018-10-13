@@ -10,3 +10,5 @@
 <dt>Mudita</dt>  
 <dd>Taking delight in the happiness of others.</dd>
 </dl>                                                                                                                              
+<table>
+                                                                                                                              <tr><th>Feminine</th><th>Masculine</th><th>Meaning</th>
