@@ -1,5 +1,5 @@
 <h1 style="color:plum;">Section One: Introduction to HTML</H1>
-<p>My name is Farjana, I was born in Spain and my background in from Bangladesh. I moved in London from Spain before starting university. I moved in London 5 years ago and I am studying Hispanic Studies with Business Management.</p>
+<p style="color:orange;">My name is Farjana, I was born in Spain and my background in from Bangladesh. I moved in London from Spain before starting university. I moved in London 5 years ago and I am studying Hispanic Studies with Business Management.</p>
 <a href="https://hub.qmplus.qmul.ac.uk/view/view.php?profile=bt16159&page=sml209-computers-and-languages-2018-farjana"> Visit my QMplus Hub page </a>
 <hr>
 <h1 style="color:plum;">Section Two: Things I have to do: </h1>
