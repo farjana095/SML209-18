@@ -1,6 +1,6 @@
 
-<h1 style="color:lime;">HTML Part 2 Homework</h1>
-<p style="color:purple;">Saturday, 13<sup>th</sup> October 2018</p>
+<h1 style="color:blue;">HTML Part 2 Homework</h1>
+<p style="color:magenta;">Saturday, 13<sup>th</sup> October 2018</p>
 
 <a href="https://upload.wikimedia.org/wikipedia/commons/3/3a/2007_Sakura_of_Fukushima-e_007_rotated.jpg" title="view Image Source">
 <img style="width:70%;border:1px solid red;"      
