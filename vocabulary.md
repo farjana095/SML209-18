@@ -3,11 +3,11 @@
 <p>Saturday, 13<sup>th</sup> October 2018</p>
 
 <a href=https://upload.wikimedia.org/wikipedia/commons/3/3a/2007_Sakura_of_Fukushima-e_007_rotated.jpg"title="View Image Source">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/2007_Sakura_of_Fukushima-e_007_rotated.jpg" alt="PICTURE OF SAKURA" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/2007_Sakura_of_Fukushima-e_007_rotated.jpg" alt="PICTURE OF SAKURA">
 </a>
 <dl>
 <dt>Serendipity</dt>
-<dd>The fact of finding interesting or valuable things by change.</dd>
+<dd>The fact of finding interesting or valuable things by change.</dd
 <dt>Ineffable</dt>  
 <dd>Too great or grand to be expressed in words.</dd>
 <dt>Mudita</dt>  
