@@ -9,7 +9,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/3/3a/2007_Sakura_of_Fukushim
 
 <dl>
 <dt style="color:plum;">Serendipity</dt>
-  <dd>The fact of finding interesting or valuable things by change.</dd>
+  <dd>The fact of finding interesting or valuable things by chance.</dd>
 <dt style="color:plum;">Ineffable</dt>  
 <dd>Too great or grand to be expressed in words.</dd>
 <dt style="color:plum;">Mudita</dt>  
