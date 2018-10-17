@@ -14,7 +14,8 @@ src="https://upload.wikimedia.org/wikipedia/commons/3/3a/2007_Sakura_of_Fukushim
 <dd>Too great or grand to be expressed in words.</dd>
 <dt style="color:plum;">Mudita</dt>  
 <dd>Taking delight in the happiness of others.</dd>
-</dl>                                                                                                                              
+</dl>   
+
 <table>
                                                                                                                               <tr><th>Feminine noun </th><th>Masculine noun </th><th>Meaning</th></tr>
                                                                                                                               <tr><td> Girl </td><td> Boy </td><td> Sex gender</td></tr>
