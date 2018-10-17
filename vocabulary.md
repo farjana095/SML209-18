@@ -3,7 +3,9 @@
 <p>Saturday, 13<sup>th</sup> October 2018</p>
 
 <a href=https://upload.wikimedia.org/wikipedia/commons/3/3a/2007_Sakura_of_Fukushima-e_007_rotated.jpg"title="View Image Source">
-<img style= "width:70%vertical-align:top;border:1pxsolid#021a40;"src="https://upload.wikimedia.org/wikipedia/commons/3/3a/2007_Sakura_of_Fukushima-e_007_rotated.jpg" alt="SAKURA">
+<img style="width:70%;border:1px solid red;"      
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/2007_Sakura_of_Fukushima-e_007_rotated.jpg" alt="SAKURA">
 </a>
 
 <dl>
