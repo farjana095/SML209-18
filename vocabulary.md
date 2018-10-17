@@ -1,5 +1,5 @@
 
-<h1 style="color:blue-green;">HTML Part 2 Homework</h1>
+<h1 style="color:orange;">HTML Part 2 Homework</h1>
 <p style="color:magenta;">Saturday, 13<sup>th</sup> October 2018</p>
 
 <a href="https://upload.wikimedia.org/wikipedia/commons/3/3a/2007_Sakura_of_Fukushima-e_007_rotated.jpg" title="view Image Source">
@@ -8,11 +8,11 @@ src="https://upload.wikimedia.org/wikipedia/commons/3/3a/2007_Sakura_of_Fukushim
 </a>
 
 <dl>
-<dt>Serendipity</dt>
+<dt style="color:plum;">Serendipity</dt>
 <dd>The fact of finding interesting or valuable things by change.</dd
-<dt>Ineffable</dt>  
+<dt style="color:cyan;"Ineffable</dt>  
 <dd>Too great or grand to be expressed in words.</dd>
-<dt>Mudita</dt>  
+<dt style="color:rose;"Mudita</dt>  
 <dd>Taking delight in the happiness of others.</dd>
 </dl>                                                                                                                              
 <table>
