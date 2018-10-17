@@ -13,8 +13,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/3/3a/2007_Sakura_of_Fukushim
 <dt style="color:plum;">Ineffable</dt>  
 <dd>Too great or grand to be expressed in words.</dd>
 <dt style="color:plum;">Mudita</dt>  
-<dd>Taking delight in the happiness of others.</dd>
-</dl>   
+<dd>Taking delight in the happiness of others.</dd></dl>   
 
 <table>
                                                                                                                               <tr><th>Feminine noun </th><th>Masculine noun </th><th>Meaning</th></tr>
