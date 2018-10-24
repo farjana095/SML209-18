@@ -5,7 +5,7 @@
 <a href="https://upload.wikimedia.org/wikipedia/commons/3/3a/2007_Sakura_of_Fukushima-e_007_rotated.jpg" title="view Image Source">
 xx</a>
 <p>
-<img class="imgLeft" style="width:70%; vertical-align:top; border:1px solid red;" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/2007_Sakura_of_Fukushima-e_007_rotated.jpg" alt="SAKURA">
+<img class="imgLeft" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/2007_Sakura_of_Fukushima-e_007_rotated.jpg" alt="SAKURA">
 
 A cherry blossom is a flower of several trees of genus Prunus, particularly the Japanese cherry, Prunus serrulata, which is called sakura after the Japanese Currently they are widely distributed, especially in the temperate zone of the Northern Hemisphere including Japan, Nepal, India, Taiwan, Korea, China, West Siberia, Iran and Afghanistan.Along with the chrysanthemum, the cherry blossom is considered the national flower of Japan.Many of the varieties that have been cultivated for ornamental use produce small, unpalatable fruit. Edible cherries generally come from cultivars of the related species Prunus avium and Prunus cerasus.  
 </p>
