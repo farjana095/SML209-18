@@ -1,8 +1,10 @@
 theme: jekyll-theme-cayman
-title: Learn Spanish Today
-description: Simple steps to perfect Spanish
+title: Learn Catalan Today
+description: Simple steps to perfect Catalan
 github:
-  page2: grammar.html
-  page3: vocabulary.html
-  page4: page4.html
-  page5: page5.html
+  page2: About Catalonia.html
+  page3: The History of Catalonia.html
+  page4: Catalan Vocabulary.html
+  page5: Catalan Phrases.html
+  page5: Notable Catalan Artists.html
+  page5: Further study.html
