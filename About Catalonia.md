@@ -1,5 +1,5 @@
 <html>
-  <body style = " background-color: blue;">
+  <body style = "color: blue;">
 <h1 align="center">About Catalonia</h1>  
   
   <h2 align="center">Map of Catalonia</h2>  
