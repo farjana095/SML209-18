@@ -1,5 +1,5 @@
 
-<strong><h1 style="color:plum;" align="center">Learn Catalan vocabulary</h1>
+<h1 style="color:plum;" align="center">Learn Catalan vocabulary</h1>
 
 <h3 style="color:plum;">Learn Catalan months names. These are presented in Catalan. You can turn the cards to see the correct English translations After that, practice the exercise below.</h3>
 
