@@ -2,9 +2,9 @@ theme: jekyll-theme-cayman
 title: Learn Catalan Today
 description: Simple steps to perfect Catalan
 github:
-  page2: About Catalonia.html
-  page3: The History of Catalonia.html
-  page4: Catalan vocabulary.html
-  page5: Catalan Phrases.html
-  page6: Notable Catalan Artists.html
-  page7: Further study.html
+  page2: 1. About Catalonia.html
+  page3: 2. The History of Catalonia.html
+  page4: 3. Catalan vocabulary.html
+  page5: 4. Catalan Phrases.html
+  page6: 5. Notable Catalan Artists.html
+  page7: 6. Further study.html
