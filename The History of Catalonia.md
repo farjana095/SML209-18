@@ -5,6 +5,8 @@
 
 <iframe src="https://h5p.org/h5p/embed/473209" width="1091" height="639" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
+<h4 style="color:black;">Bar chart showing places where Catalan is spoken around the world</h4>
+
 <iframe src="https://h5p.org/h5p/embed/473226" width="1090" height="325" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 <iframe src="https://h5p.org/h5p/embed/473230" width="1090" height="425" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
