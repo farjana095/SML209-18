@@ -1,6 +1,6 @@
 <html>
   <body>
-<h1 style="color:plum;" align="center">About Catalonia</h1> 
+<h1 style="color:plum;" align="center">Learn interesting facts about Catalonia</h1> 
     
 <h2 style="color:black;" align="center">Map of Catalonia</h2>
     
@@ -12,7 +12,7 @@
 <h3 style="color:black;" align="center">Read these 7 facts about Catalonia and test your knowledge!</h3>
 <iframe src="https://h5p.org/h5p/embed/472166" width="1090" height="638" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-<h2 style="color:black;" align="center">Now, without reading, answer these 5 questions</h2>
+<h3 style="color:black;" align="center">Now, without reading, answer these 5 questions</h3>
 
 <iframe src="https://h5p.org/h5p/embed/472261" width="1091" height="303" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
