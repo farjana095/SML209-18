@@ -1,5 +1,5 @@
 
-<h1 style="color:plum;">Learn Catalan vocabulary, months, numbers, the alphabet and food</h1>
+<h1 style="color:plum;">Learn Catalan vocabulary</h1>
 
 <h2 style="color:plum;">Look at the flashcard which shows the months in Catalan and English and do the activity below that to practice.</h2>
 
