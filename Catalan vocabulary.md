@@ -15,11 +15,8 @@
 
 <iframe src="https://h5p.org/h5p/embed/473408" width="1090" height="374" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-<iframe width="850" height="300" src="https://www.youtube.com/embed/1iqDP_CzZ2w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<h4 style="color:plum;">3. Learn about Catalan traditional food. After watching the video, do the exercise below.</h4>
 
-<iframe src="https://h5p.org/h5p/embed/473442" width="1090" height="222" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
-
-<iframe src="https://h5p.org/h5p/embed/473450" width="1090" height="223" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 <iframe width="850" height="300" src="https://www.youtube.com/embed/YLUCwiKPdQo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
