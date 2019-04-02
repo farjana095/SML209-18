@@ -1,7 +1,7 @@
 
 <h1 style="color:plum;" align="center">History about the Catalan language</h1>
 
-<h4 style="color:black;" align="center">Watch this presentation about the Catalan history, then complete the two exercises below to check your knowledge!</h4>
+<h4 style="color:black;" align="center">Watch this presentation about the Catalan language history, then complete the two exercises below to check your knowledge!</h4>
 
 <iframe src="https://h5p.org/h5p/embed/473209" width="1091" height="639" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
