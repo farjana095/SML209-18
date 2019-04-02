@@ -1,5 +1,5 @@
 
-<h1 style ="color:plum; align:center;"><h1 style="">Learn Catalan vocabulary</h1>
+<h1 color="plum" align="center">Learn Catalan vocabulary</h1>
 
 <h2 style="color:plum;">Look at the flashcard which shows the months in Catalan and English and do the activity below that to practice.</h2>
 
