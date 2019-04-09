@@ -8,14 +8,14 @@
 
 <strong> This website is designed to provide an introduction to the Catalan language and history.
   
+<ol type= "i">
+  
+<li>It will incorporate basic facts about the history of Catalonia, notable artists, Catalan phrases and vocabulary, and will appreciate the importance of the Catalan language today. </li>
 
-It will incorporate basic facts about the history of Catalonia, notable artists, Catalan phrases and vocabulary, and will appreciate the importance of the Catalan language today. 
+<li>This website is aimed at anyone who is interested in the Catalan language and culture, but may be of most use to potential visitors. </l>
 
+<li>The site will include a variety of activities and multimedia to provide active engagement on each section.</li>
 
-This website is aimed at anyone who is interested in the Catalan language and culture, but may be of most use to potential visitors. 
+<li>The section below shows an outline of the content of each page in my proposed website.</strong> </li>
+</ol>
 
-
-The site will include a variety of activities and multimedia to provide active engagement on each section.
-
-
-The section below shows an outline of the content of each page in my proposed website.</strong>
