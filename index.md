@@ -17,6 +17,10 @@
 
 <li>The section below shows an outline of the content of each page in my proposed website.</li></ol>
 
+body {
+ background-image: https://fsb.zobj.net/crop.php?r=brfML1qZMx9UDAOHEcqP1-OJ4XLwGFg5CANEvjW9s1ONDhfIY2UtYjBCbl_6Gdd6Yml3U6RrPY6ieEBXqEylIOTNUZIMJPLZHfS1D9I21l6KTHkgNO4ycggPxvBsVq2y7C2WKhIYSsNUEVCF("paper.gif");
+ background-color: #cccccc;
+}
 
 
 
