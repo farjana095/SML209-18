@@ -1,9 +1,7 @@
 <h1 align="center">Learning Catalan</h1>
 
 
-<h2 href="https://upload.wikimedia.org/wikipedia/commons/7/7a/Senyera_%28Pl._Octavi%C3%A0%2C_S._Cugat_del_Vall%C3%A8s%29_01.jpg"><img class="imgCenter" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Senyera_%28Pl._Octavi%C3%A0%2C_S._Cugat_del_Vall%C3%A8s%29_01.jpg" style = "display:block:margin-left: auto; margin-right: auto;"/>
- 
- <iframe src="https://giphy.com/embed/13bSLVaC1MZe9y" width="800" height="435" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/change-languages-peninsula-13bSLVaC1MZe9y">via GIPHY</a></p>
+<h2 <div class="tenor-gif-embed" data-postid="11574254" data-share-method="host" data-width="100%" data-aspect-ratio="1.6"><a href="https://tenor.com/view/catalan-catalonia-flag-waving-gif-11574254">Catalan Catalonia GIF</a> from <a href="https://tenor.com/search/catalan-gifs">Catalan GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <h1 style="color:black;" align="center">Overview of this site</h1>
 
