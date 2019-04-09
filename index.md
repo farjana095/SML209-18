@@ -1,7 +1,7 @@
 <h1 align="center">Learning Catalan</h1>
 
 
-<iframe src="https://giphy.com/embed/deaobLQQUkkbC" width="480" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/spain-deaobLQQUkkbC">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/deaobLQQUkkbC" width="1000" height="700" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 <h1 style="color:black;" align="center">Overview of this site</h1>
 
