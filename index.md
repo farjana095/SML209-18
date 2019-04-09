@@ -4,6 +4,8 @@
 <h2 href="https://upload.wikimedia.org/wikipedia/commons/7/7a/Senyera_%28Pl._Octavi%C3%A0%2C_S._Cugat_del_Vall%C3%A8s%29_01.jpg"><img class="imgCenter" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Senyera_%28Pl._Octavi%C3%A0%2C_S._Cugat_del_Vall%C3%A8s%29_01.jpg" style = "display:block:margin-left: auto; margin-right: auto;"/>
 
 <h1 style="color:black;" align="center">Overview of this site</h1>
+
+
 <strong> This website is designed to provide an introduction to the Catalan language and history.
   
 
