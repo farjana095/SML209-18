@@ -4,12 +4,16 @@
 <h2 href="https://upload.wikimedia.org/wikipedia/commons/7/7a/Senyera_%28Pl._Octavi%C3%A0%2C_S._Cugat_del_Vall%C3%A8s%29_01.jpg"><img class="imgCenter" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Senyera_%28Pl._Octavi%C3%A0%2C_S._Cugat_del_Vall%C3%A8s%29_01.jpg" style = "display:block:margin-left: auto; margin-right: auto;"/>
 
 <h1 style="color:black;" align="center">Overview of this site</h1>
-<em> This website is designed to provide an introduction to the Catalan language and history.
+<strong> This website is designed to provide an introduction to the Catalan language and history.
+  
 
 It will incorporate basic facts about the history of Catalonia, notable artists, Catalan phrases and vocabulary, and will appreciate the importance of the Catalan language today. 
 
+
 This website is aimed at anyone who is interested in the Catalan language and culture, but may be of most use to potential visitors. 
+
 
 The site will include a variety of activities and multimedia to provide active engagement on each section.
 
-The section below shows an outline of the content of each page in my proposed website.</em>
+
+The section below shows an outline of the content of each page in my proposed website.</strong>
