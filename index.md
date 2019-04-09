@@ -5,11 +5,10 @@
 
 <h1 style="color:black;" align="center">Overview of this site</h1>
 
-
-<strong> This website is designed to provide an introduction to the Catalan language and history.
-  
 <ol type= "i">
-  
+
+<li><strong> This website is designed to provide an introduction to the Catalan language and history.</li>
+ 
 <li>It will incorporate basic facts about the history of Catalonia, notable artists, Catalan phrases and vocabulary, and will appreciate the importance of the Catalan language today. </li>
 
 <li>This website is aimed at anyone who is interested in the Catalan language and culture, but may be of most use to potential visitors. </l>
