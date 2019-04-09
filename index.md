@@ -1,7 +1,7 @@
 <h1 align="center">Learning Catalan</h1>
 
 
-<h2 <div class="tenor-gif-embed" data-postid="11574254" data-share-method="host" data-width="100%" data-aspect-ratio="1.6"><a href="https://tenor.com/view/catalan-catalonia-flag-waving-gif-11574254">Catalan Catalonia GIF</a> from <a href="https://tenor.com/search/catalan-gifs">Catalan GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<iframe src="https://giphy.com/embed/deaobLQQUkkbC" width="480" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/spain-deaobLQQUkkbC">via GIPHY</a></p>
 
 <h1 style="color:black;" align="center">Overview of this site</h1>
 
