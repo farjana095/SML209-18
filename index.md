@@ -7,7 +7,7 @@
 
 <ol type= "i">
 
-<li><strong> This website is designed to provide an introduction to the Catalan language and history.</li>
+<li><bold> This website is designed to provide an introduction to the Catalan language and history.</li>
  
 <li>It will incorporate basic facts about the history of Catalonia, notable artists, Catalan phrases and vocabulary, and will appreciate the importance of the Catalan language today. </li>
 
@@ -15,6 +15,6 @@
 
 <li>The site will include a variety of activities and multimedia to provide active engagement on each section.</li>
 
-<li>The section below shows an outline of the content of each page in my proposed website.</strong> </li>
+<li>The section below shows an outline of the content of each page in my proposed website.</bold> </li>
 </ol>
 
