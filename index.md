@@ -2,7 +2,7 @@
 
 <center><img src=
 "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Catalonia.svg/640px-Flag_of_Catalonia.svg.png"
-width="400" height="200"></center>
+width="550" height="250"></center>
 
 
 <h1 style="color:black;" align="center">Overview of this site</h1>
