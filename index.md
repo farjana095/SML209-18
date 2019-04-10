@@ -17,10 +17,11 @@
 
 <li>The section below shows an outline of the content of each page in my proposed website.</li></ol>
 
-body {
- background-image: https://images.app.goo.gl/4QB2fDQc8eP78Au29
- background-color: #cccccc;
-}
-
+<html>
+<body background="unknown.jpg">
+<h1>Hello world!</h1>
+<p><a href="https://www.w3schools.com">Visit W3Schools.com!</a></p>
+</body>
+</html>
 
 
