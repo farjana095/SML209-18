@@ -1,7 +1,7 @@
 <h1 align="center">Learning Catalan</h1>
 
 
-<iframe src="https://giphy.com/embed/deaobLQQUkkbC" width="1000" height="700" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Catalonia.svg">
 
 <h1 style="color:black;" align="center">Overview of this site</h1>
 
