@@ -1,7 +1,25 @@
 ---
 ---
 
-//@import "{{site.theme}}";
+@import "{{site.theme}}";
+
+.imgLeft {
+float:left;
+margin-right:10px;
+margin-bottom:10px;
+width:70%;
+vertical-align:top;
+;
+}
+
+.imgLeft2 {
+float:left;
+margin-right:10px;
+margin-bottom:10px;
+width:200%;
+vertical-align:top;
+border:1px solid red;
+}
 
 h1{
   color:red ;
@@ -10,7 +28,7 @@ h1{
 }
 
 body{
-	background-image: url(https://media.giphy.com/media/1Tz1pbJTQQg12/giphy.gif);background-size:100% 100%
+	background-image: url(https://media.giphy.com/media/jwYD0NZpBOBxFdAse3/giphy.gif);background-size:100% 100%
 }
 
 .btn2 {
