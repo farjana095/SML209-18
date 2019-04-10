@@ -5,7 +5,7 @@
 width="550" height="250"></center>
 
 
-<u><h2 style="color:purple;" align="center">Overview of this site</h2></u>
+<h1 style="color:purple;" align="center">Overview of this site</h1>
 
 <ol type= "a">
 
