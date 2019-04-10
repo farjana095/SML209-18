@@ -1,7 +1,7 @@
 <h1 style="color:plum;" align="center">Learning about Catalonia and its language</h1>
 
-<div style="display: flex; justify-content: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Catalonia.svg/640px-Flag_of_Catalonia.svg.png" style="width: 400px; height: 400px;" 
+<div style="display: flex; center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Catalonia.svg/640px-Flag_of_Catalonia.svg.png" 
 
 <h1 style="color:black;" align="center">Overview of this site</h1>
 
