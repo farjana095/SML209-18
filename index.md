@@ -17,11 +17,8 @@
 
 <li>The section below shows an outline of the content of each page in my proposed website.</li></ol>
 
-<html>
-<body background="unknown.jpg">
-<h1>Hello world!</h1>
-<p><a href="https://www.w3schools.com">Visit W3Schools.com!</a></p>
-</body>
-</html>
+
+<body background="unknown.jpg"></body>
+
 
 
