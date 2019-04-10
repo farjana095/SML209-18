@@ -18,7 +18,7 @@
 <li>The section below shows an outline of the content of each page in my proposed website.</li></ol>
 
 
-<body background="unknown.jpg"></body>
+<body background="unknown.png"></body>
 
 
 
