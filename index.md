@@ -1,7 +1,7 @@
 <h1 align="center">Learning Catalan</h1>
 
 
-<img src= "align-center" = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Catalonia.svg/640px-Flag_of_Catalonia.svg.png">
+<img style="align:center;" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Catalonia.svg/640px-Flag_of_Catalonia.svg.png">
 
 <h1 style="color:black;" align="center">Overview of this site</h1>
 
