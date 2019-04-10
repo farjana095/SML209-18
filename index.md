@@ -5,7 +5,7 @@
 width="550" height="250"></center>
 
 
-<h1 style="color:black;" align="center">Overview of this site</h1>
+<h3 style="color:purple;" align="center">Overview of this site</h3>
 
 <ol type= "a">
 
@@ -20,7 +20,7 @@ width="550" height="250"></center>
 <li>The section below shows an outline of the content of each page in my proposed website.</li></ol>
 
 
-<body background="unknown.png"></body>
+
 
 
 
