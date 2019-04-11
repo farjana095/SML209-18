@@ -7,9 +7,9 @@ width="550" height="250"></center>
 
 <h1 style="color:purple;" align="center">Overview of this site</h1>
 
-<p> style="background-color:MediumSeaGreen; <ol type= "a">
+<ol type= "a">
 
-<li> This website is designed to provide an introduction to the Catalan language and history.</li>
+<li><h5 style="background-color:MediumSeaGreen;"> This website is designed to provide an introduction to the Catalan language and history.</li></h5>
  
 <li>It will incorporate basic facts about the history of Catalonia, notable artists, Catalan phrases and vocabulary, and will appreciate the importance of the Catalan language today. </li>
 
@@ -17,7 +17,7 @@ width="550" height="250"></center>
 
 <li>The site will include a variety of activities and multimedia to provide active engagement on each section.</li>
 
-<li>The section below shows an outline of the content of each page in my proposed website.</li></ol></p>
+<li>The section below shows an outline of the content of each page in my proposed website.</li></ol>
 
 
 
