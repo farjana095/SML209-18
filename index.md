@@ -1,4 +1,4 @@
-<h1 style="color:violet;" align="center">Learning about Catalonia and its language</h1>
+<h1 style="color:mediumvioletred;" align="center">Learning about Catalonia and its language</h1>
 
 <center><img src=
 "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Catalonia.svg/640px-Flag_of_Catalonia.svg.png"
