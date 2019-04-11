@@ -20,6 +20,8 @@ width="550" height="250"></center>
 <div><li><h4 style="background-color:LightCoral;">The section below shows an outline of the content of each page in my proposed website.</h4></li></div>
 
 
+<iframe src="https://giphy.com/embed/13DobtLzCTj16M" width="600" height="250" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/13DobtLzCTj16M">via GIPHY</a></p>
+
 <h1 style="color:mediumvioletred;" align="center">Brief outline of each section</h1>
 
 <center><h2 style="background-color:darksalmon;"><a href="https://farjana095.github.io/SML209-18/1.%20About%20Catalonia.html">1. About Catalonia</a></h2></center>
