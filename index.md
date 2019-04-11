@@ -24,6 +24,8 @@ width="550" height="250"></center>
 
 <center><h2 style="background-color:darksalmon;"><a href="https://farjana095.github.io/SML209-18/1.%20About%20Catalonia.html">1. About Catalonia</a></h2></center>
 
+<div>Here I will be talking generally about Catalonia, so that the Reader familiarises a bit with the culture and know more about the place, there will be a map of Catalonia, some facts about it and then there will be 5 questions at the end of it to test the reader’s knowledge so far. </div>
+
 <center><h2 style="background-color:plum;"><a href="https://farjana095.github.io/SML209-18/2.%20The%20History%20of%20Catalonia.html">2. History of Catalonia</a></h2></center>
 
 <center><h2 style="background-color:orchid;"><a href="https://farjana095.github.io/SML209-18/3.%20Catalan%20vocabulary.html">3. Catalan vocabulary</a></h2></center>
