@@ -5,7 +5,7 @@
 width="550" height="250"></center>
 
 
-<h1 style="color:purple;" align="center">Overview of this site</h1>
+<h1 style="color:maroon;" align="center">Overview of this site</h1>
 
 
 
