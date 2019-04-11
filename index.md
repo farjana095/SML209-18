@@ -9,15 +9,15 @@ width="550" height="250"></center>
 
 
 
-<div><li><h2 style="background-color:LightSalmon;"> This website is designed to provide an introduction to the Catalan language and history.</h2></li></div>
+<div><li><h4 style="background-color:LightCoral;"> This website is designed to provide an introduction to the Catalan language and history.</h4></li></div>
  
-<div><li><h2 style="background-color:LightCoral;">It will incorporate basic facts about the history of Catalonia, notable artists, Catalan phrases and vocabulary, and will appreciate the importance of the Catalan language today.</h2></li></div>
+<div><li><h4 style="background-color:LightCoral;">It will incorporate basic facts about the history of Catalonia, notable artists, Catalan phrases and vocabulary, and will appreciate the importance of the Catalan language today.</h4></li></div>
 
-<div><li><h2 style="background-color:Orange;">This website is aimed at anyone who is interested in the Catalan language and culture, but may be of most use to potential visitors.</h2></li></div>
+<div><li><h4 style="background-color:LightCoral;">This website is aimed at anyone who is interested in the Catalan language and culture, but may be of most use to potential visitors.</h4></li></div>
 
-<div><li><h2 style="background-color:Orange;">The site will include a variety of activities and multimedia to provide active engagement on each section.</h2></li></div>
+<div><li><h4 style="background-color:LightCoral;">The site will include a variety of activities and multimedia to provide active engagement on each section.</h4></li></div>
 
-<div><li><h2 style="background-color:Orange;">The section below shows an outline of the content of each page in my proposed website.</h2></li></div>
+<div><li><h4 style="background-color:LightCoral;">The section below shows an outline of the content of each page in my proposed website.</h4></li></div>
 
 
 
