@@ -5,7 +5,7 @@
 width="550" height="250"></center>
 
 
-<h1 style="color:maroon;" align="center">Overview of this site</h1>
+<h1 style="color:mediumvioletred;" align="center">Overview of this site</h1>
 
 
 
@@ -19,6 +19,8 @@ width="550" height="250"></center>
 
 <div><li><h4 style="background-color:LightCoral;">The section below shows an outline of the content of each page in my proposed website.</h4></li></div>
 
+
+<h1 style="color:mediumvioletred;" align="center">Brief outline of each section</h1>
 
 
 
