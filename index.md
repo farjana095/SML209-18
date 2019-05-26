@@ -9,7 +9,7 @@ width="550" height="250"></center>
 
 
 
-<div><li><h4 style="background-color:green;"> This website is designed to provide an introduction to the Catalan language and history.</h4></li></div>
+<div><li><h4 style="background-color:palegreen;"> This website is designed to provide an introduction to the Catalan language and history.</h4></li></div>
  
 <div><li><h4 style="background-color:LightCoral;">It will discuss facts about the history of Catalonia, artists, phrases, vocabulary, etc.</h4></li></div>
 
