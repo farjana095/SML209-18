@@ -9,15 +9,15 @@ width="550" height="250"></center>
 
 
 
-<div><li><h2 style="background-color:palegreen;"> This website is designed to provide an introduction to the Catalan language and history.</h2></li></div>
+<div><li><h3 style="background-color:palegreen;"> This website is designed to provide an introduction to the Catalan language and history.</h2></li></div>
  
-<div><li><h2 style="background-color:palegreen;">It will discuss facts about the history of Catalonia, artists, phrases, vocabulary, etc.</h2></li></div>
+<div><li><h3 style="background-color:palegreen;">It will discuss facts about the history of Catalonia, artists, phrases, vocabulary, etc.</h2></li></div>
 
-<div><li><h2 style="background-color:palegreen;">This website is aimed at anyone interested in the Catalan language and culture, specially visitors.</h2></li></div>
+<div><li><h3 style="background-color:palegreen;">This website is aimed at anyone interested in the Catalan language and culture, specially visitors.</h2></li></div>
 
-<div><li><h2 style="background-color:palegreen;">The site will include activities and multimedia to provide active engagement on each section.</h2></li></div>
+<div><li><h3 style="background-color:palegreen;">The site will include activities and multimedia to provide active engagement on each section.</h2></li></div>
 
-<div><li><h2 style="background-color:palegreen;">The section below shows an outline of the content of each page in my proposed website.</h2></li></div>
+<div><li><h3 style="background-color:palegreen;">The section below shows an outline of the content of each page in my proposed website.</h3></li></div>
 
 
 <iframe src="https://giphy.com/embed/13DobtLzCTj16M" width="2000" height="50" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
