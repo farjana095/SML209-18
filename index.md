@@ -1,15 +1,15 @@
-<h1 style="color:mediumvioletred;" align="center">Learning about Catalonia and its language</h1>
+<h1 style="color:darkgreen;" align="center">Learning about Catalonia and its language</h1>
 
 <center><img src=
 "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Catalonia.svg/640px-Flag_of_Catalonia.svg.png"
 width="550" height="250"></center>
 
 
-<h1 style="color:mediumvioletred;" align="center">Overview of this site</h1>
+<h1 style="color:darkgreen;" align="center">Overview of this site</h1>
 
 
 
-<div><li><h4 style="background-color:LightCoral;"> This website is designed to provide an introduction to the Catalan language and history.</h4></li></div>
+<div><li><h4 style="background-color:green;"> This website is designed to provide an introduction to the Catalan language and history.</h4></li></div>
  
 <div><li><h4 style="background-color:LightCoral;">It will discuss facts about the history of Catalonia, artists, phrases, vocabulary, etc.</h4></li></div>
 
