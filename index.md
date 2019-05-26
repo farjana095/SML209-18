@@ -48,7 +48,7 @@ width="550" height="250"></center>
 <div>In this section, I will present 5 notable artists, I will put some information about the life of each and why they are so important in the Catalan culture. After that, there will be a memorising quiz, a drag and drop map activity, and a fill in the missing words activity to test reader’s knowledge.</div>
 
 
-<center><h2 style="background-color:darksalmon;"><a href="https://farjana095.github.io/SML209-18/6.%20Further%20study.html">Further study</a></h2></center>
+<center><h2 style="background-color:white;"><a href="https://farjana095.github.io/SML209-18/6.%20Further%20study.html">Further study</a></h2></center>
 <div>In this section, I will provide some extra help for people who want to learn more about the Catalan Language and Catalonia, I will suggest few sites where they can improve their English, some famous places that they can visit of Catalonia, with an explanation for each one, and at the end, I will provide few links to Catalan dictionaries and encyclopaedias.</div>
 
 
